@@ -2,7 +2,7 @@
 Title     : Hackerrank_Solution_Blank_File_Creator
 Subdomain : None
 Domain    : None
-Author    : Ahmedur Rahman Shovon
+Author    : mn
 Created   : 12 July 2017
 '''
 import re,os,datetime,sys
